@@ -2,7 +2,7 @@
 [![百百川](https://img.shields.io/badge/bilibili-%E7%99%BE%E7%99%BE%E5%B7%9D-ff69b4)](https://space.bilibili.com/150478041)
 [![百百川](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%99%BE%E7%99%BE%E5%B7%9D-blue)](https://www.zhihu.com/people/baibaichuan)
 [![百百川](https://img.shields.io/badge/GitHub-750ti-black)](https://github.com/750ti)
-[![百百川](https://img.shields.io/badge/gitee-%E7%99%BE%E7%99%BE%E5%B7%9D-red)](https://gitee.com/gtx750ti)  ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4-2023年11月18日-lightgrey)
+[![百百川](https://img.shields.io/badge/gitee-%E7%99%BE%E7%99%BE%E5%B7%9D-red)](https://gitee.com/gtx750ti)
 
 ---
 
@@ -17,33 +17,34 @@
 
 ## 各个网盘下载链接
 
-- **【123盘】**  
-没以前好用了，但是也是比百度网盘强点
-https://www.123912.com/s/NHjbVv-hWqjH?提取码:RA22
-提取码:RA22
-（2025年02月12日，更新失效链接）
-（失效原因是压缩包版违规，搞不懂，已删，需要压缩包版的天翼有）
+**【123盘】** 
+- 没以前好用了，但是也是比百度网盘强点
+- https://www.123912.com/s/NHjbVv-hWqjH?提取码:RA22
+- 提取码:RA22
+- （2025年02月12日，更新失效链接）
+- （失效原因是压缩包版违规，搞不懂，已删，需要压缩包版的天翼有）
 
-- **【天翼云盘】**   
-电脑浏览器打开网页不限速，手机微信扫码登陆后可以直接在网页下载，不需要下什么狗屁客户端  
-https://cloud.189.cn/t/6r67byN3Un6v  
-(访问码:v8qi)  
-https://cloud.189.cn/t/eQrUraBJvaaq  
-(访问码:8y46)  
-（2022年4月18日-更新链接）   
-（2022年11月2日-又补了一个新链接，防止失效了来不及补，内容都是一样的）    
+**【天翼云盘】**   
+- 电脑浏览器打开网页不限速，手机微信扫码登陆后可以直接在网页下载
+- https://cloud.189.cn/t/6r67byN3Un6v  
+- (访问码:v8qi)  
+- https://cloud.189.cn/t/eQrUraBJvaaq  
+- (访问码:8y46)  
+- （2022年4月18日-更新链接）   
+- （2022年11月2日-又补了一个新链接，防止失效了来不及补，内容都是一样的）    
 
-- **【阿里网盘】**  （内容不全，只有安装包和图文教程，没补丁）   
-注意：游戏安装包可以正常下载，但阿里网盘规定不能分享压缩包文件，所以内容有缺失，其它文件需要移步上面网盘下载。  
-https://www.aliyundrive.com/s/ntQBKhJAJAx
+**【阿里网盘】**  （内容不全，只有安装包和图文教程，没补丁）   
+- 注意：游戏安装包可以正常下载，但阿里网盘规定不能分享压缩包文件，所以内容有缺失，其它文件需要移步上面网盘下载。  
+- https://www.aliyundrive.com/s/ntQBKhJAJAx
 
-- **【百度网盘】**  
-我百度网盘的账号已经被玩废了，分享什么都是直接失效，就这样吧，已放弃，不折腾了。
-（2022年11月2日）
+**【百度网盘】**  
+- 我百度网盘的账号已经被玩废了，分享什么都是直接失效，就这样吧，已放弃，不折腾了。
+- （2022年11月2日）
 
-- **【谷歌网盘 Google Drive】**  无限速，免登陆，有网络条件的推荐！  
-最近偶尔收到一些海外观众说，没有手机号注册国内网盘平台的账号，并且这些平台的用户体验很差，于是顺便在谷歌网盘传一份，无限速，免登陆，有网络条件推荐使用，使用体验好很多。  解压密码baichuan  
-https://drive.google.com/drive/folders/1cEjJbR3khXmlhgDHKg6cdu6-nD2bp2P4?usp=drive_link
+ **【谷歌网盘 Google Drive】**  无限速，免登陆，有网络条件的推荐！  
+ - 最近偶尔收到一些海外观众说，没有手机号注册国内网盘平台的账号，并且这些平台的用户体验很差，于是顺便在谷歌网盘传一份，无限速，免登陆，有网络条件推荐使用，使用体验好很多。 
+ - 解压密码 `baichuan` 
+ - https://drive.google.com/drive/folders/1cEjJbR3khXmlhgDHKg6cdu6-nD2bp2P4?usp=drive_link
 
 
 ---
